@@ -1,6 +1,6 @@
 # Project-Hotel-Management
 A BRIEF PROGRAM FOR HOTEL MANAGEMENT. USE TURBO C++ TO RUN THE CODE.
-Screenshot attached of the menu's present inside the program.
+Screenshots attached of the menu's present inside the program.
 ![image](https://user-images.githubusercontent.com/95688626/145702508-e975bb88-4ab0-45cb-99e9-9bcb99886a96.png)
 ![image](https://user-images.githubusercontent.com/95688626/145702513-4ef4b06d-344b-45b2-ad75-b510b554b9bb.png)
 ![image](https://user-images.githubusercontent.com/95688626/145702516-70444b63-3315-44ae-acf9-03fd4c322a84.png)
